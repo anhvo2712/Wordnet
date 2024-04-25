@@ -10,8 +10,11 @@ For this project, I created a graphical representation of this mapping along wit
 
 # Skills
 Java programming
+
 Requires designing graph structures for efficient data handling
+
 Emphasizes independent design decisions
+
 Parsing large datasets
 
 <img width="721" alt="Screenshot 2024-04-25 at 12 54 01 PM" src="https://github.com/anhvo2712/Wordnet/assets/146797707/78ee0e34-6161-440a-a7c2-0c904ff0de24">
