@@ -3,7 +3,9 @@ A project which explores how the volume of printed works in English has changed 
 
 # Description
 Wordnet is a lexical database for the English language.
+
 It groups English words into sets of synonyms called synsets, provides short, general definitions, and records the various semantic relations between these synonym sets.
+
 For this project, I created a graphical representation of this mapping along with a graphing mechanism to see how word popularity changes over time.
 
 # Skills
